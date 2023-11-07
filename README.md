@@ -1,7 +1,7 @@
 Hola 👋🏽, Soy fernandez.max.ar, Fullstack Developer Junior
 
 Mi nombre es Maximiliano Fernández, y me inicié en el mundo de la programación 
-a principios de 2020 como autodidacta. 
+como autodidacta. 
 
 Desde entonces, he estado dedicado a mejorar mis habilidades y conocimientos 
 en este campo en constante evolución.
